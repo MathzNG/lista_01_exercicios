@@ -1,0 +1,14 @@
+C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\obj\Debug\net8.0\Lista_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\obj\Debug\net8.0\Lista_01.AssemblyInfoInputs.cache
+C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\obj\Debug\net8.0\Lista_01.AssemblyInfo.cs
+C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\obj\Debug\net8.0\Lista_01.csproj.CoreCompileInputs.cache
+C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\bin\Debug\net8.0\Lista_01.exe
+C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\bin\Debug\net8.0\Lista_01.deps.json
+C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\bin\Debug\net8.0\Lista_01.runtimeconfig.json
+C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\bin\Debug\net8.0\Lista_01.dll
+C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\bin\Debug\net8.0\Lista_01.pdb
+C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\obj\Debug\net8.0\Lista_01.dll
+C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\obj\Debug\net8.0\refint\Lista_01.dll
+C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\obj\Debug\net8.0\Lista_01.pdb
+C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\obj\Debug\net8.0\Lista_01.genruntimeconfig.cache
+C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\obj\Debug\net8.0\ref\Lista_01.dll

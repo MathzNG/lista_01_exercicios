@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{884AF6C2-ABA0-4AE3-B86F-58554C803B29}|Lista_10\\Lista_10.csproj|c:\\users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884AF6C2-ABA0-4AE3-B86F-58554C803B29}|Lista_10\\Lista_10.csproj|solutionrelative:lista_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFCA617-67FB-49D7-B154-207FB9058F6F}|Lista_08\\Lista_08.csproj|c:\\users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFCA617-67FB-49D7-B154-207FB9058F6F}|Lista_08\\Lista_08.csproj|solutionrelative:lista_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC85D825-910B-42BD-8181-948650FEDB72}|Lista_07\\Lista_07.csproj|c:\\users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC85D825-910B-42BD-8181-948650FEDB72}|Lista_07\\Lista_07.csproj|solutionrelative:lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{987EC65E-4A4A-4211-8DF2-DC580F73A541}|Lista_06\\Lista_06.csproj|c:\\users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987EC65E-4A4A-4211-8DF2-DC580F73A541}|Lista_06\\Lista_06.csproj|solutionrelative:lista_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33398D5E-077F-405E-8C13-A5A277A54998}|Lista_05\\Lista_05.csproj|c:\\users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33398D5E-077F-405E-8C13-A5A277A54998}|Lista_05\\Lista_05.csproj|solutionrelative:lista_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333A5536-E35D-4DA6-8B54-8391D95E4F0B}|Lista_04\\Lista_04.csproj|c:\\users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333A5536-E35D-4DA6-8B54-8391D95E4F0B}|Lista_04\\Lista_04.csproj|solutionrelative:lista_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3B777-1EC2-4848-93B8-6B5BFD9CFFEF}|Lista_03\\Lista_03.csproj|c:\\users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3B777-1EC2-4848-93B8-6B5BFD9CFFEF}|Lista_03\\Lista_03.csproj|solutionrelative:lista_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D2F878-8BB3-428C-BA32-DDA62CEC8EF7}|Lista_01\\Lista_01.csproj|c:\\users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D2F878-8BB3-428C-BA32-DDA62CEC8EF7}|Lista_01\\Lista_01.csproj|solutionrelative:lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746DD289-1104-43FD-BD36-59D3F93E7BDE}|Lista_02\\Lista_02.csproj|c:\\users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746DD289-1104-43FD-BD36-59D3F93E7BDE}|Lista_02\\Lista_02.csproj|solutionrelative:lista_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_10\\Program.cs",
+              "RelativeDocumentMoniker": "Lista_10\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_10\\Program.cs",
+              "RelativeToolTip": "Lista_10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:44:50.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_08\\Program.cs",
+              "RelativeDocumentMoniker": "Lista_08\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_08\\Program.cs",
+              "RelativeToolTip": "Lista_08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:44:06.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_07\\Program.cs",
+              "RelativeDocumentMoniker": "Lista_07\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_07\\Program.cs",
+              "RelativeToolTip": "Lista_07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:43:37.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_06\\Program.cs",
+              "RelativeDocumentMoniker": "Lista_06\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_06\\Program.cs",
+              "RelativeToolTip": "Lista_06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:43:12.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_05\\Program.cs",
+              "RelativeDocumentMoniker": "Lista_05\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_05\\Program.cs",
+              "RelativeToolTip": "Lista_05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:42:41.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_04\\Program.cs",
+              "RelativeDocumentMoniker": "Lista_04\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_04\\Program.cs",
+              "RelativeToolTip": "Lista_04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:42:12.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_03\\Program.cs",
+              "RelativeDocumentMoniker": "Lista_03\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_03\\Program.cs",
+              "RelativeToolTip": "Lista_03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:41:30.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_02\\Program.cs",
+              "RelativeDocumentMoniker": "Lista_02\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_02\\Program.cs",
+              "RelativeToolTip": "Lista_02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:22:19.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_01\\Program.cs",
+              "RelativeDocumentMoniker": "Lista_01\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.nguedes\\source\\repos\\lista_01_exercicios\\Lista_01_exercicios\\Lista_01\\Program.cs",
+              "RelativeToolTip": "Lista_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:11:58.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
