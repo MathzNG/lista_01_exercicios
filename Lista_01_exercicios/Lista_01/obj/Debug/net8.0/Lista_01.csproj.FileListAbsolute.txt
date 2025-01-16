@@ -12,3 +12,4 @@ C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Li
 C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\obj\Debug\net8.0\Lista_01.pdb
 C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\obj\Debug\net8.0\Lista_01.genruntimeconfig.cache
 C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\obj\Debug\net8.0\ref\Lista_01.dll
+C:\Users\matheus.nguedes\source\repos\lista_01_exercicios\Lista_01_exercicios\Lista_01\obj\Debug\net8.0\Lista_01.sourcelink.json

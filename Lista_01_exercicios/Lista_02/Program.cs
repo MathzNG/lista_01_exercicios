@@ -7,4 +7,19 @@ correspondente.
 o Exemplo de Saída: "O número é positivo.", "O número é negativo." ou "O
 número é zero.*/
 
+Console.WriteLine("Digite 1° número");
+int num1 = int.Parse(Console.ReadLine());
+
+if (num1 > 0)
+{
+    Console.WriteLine("Situação: Positivo");
+}
+else if (num1 < 0)
+{
+    Console.WriteLine("Situação: Negativo");
+}
+else
+{
+    Console.WriteLine("número é 0");
+}
 

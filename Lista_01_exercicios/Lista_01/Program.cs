@@ -14,6 +14,10 @@ if (num1 % 2 == 0)
 {
     Console.WriteLine("Número é par");
 }
+else
+{
+    Console.WriteLine("Número é impar");
+}
 
     
 
